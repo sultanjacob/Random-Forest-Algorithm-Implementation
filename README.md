@@ -1,4 +1,4 @@
-# Employee Attrition Prediction using Random Forest
+# Employee Attrition Prediction using Random Forest Algorithm
 This project implements a machine learning solution to predict employee turnover (attrition) using the HR Employee Attrition dataset. The primary goal is to identify at-risk employees and determine the key drivers that lead to resignation.
 
 
